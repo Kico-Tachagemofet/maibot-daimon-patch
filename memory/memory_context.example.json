@@ -1,0 +1,15 @@
+{
+  "recent_days": 7,
+  "owner_user_ids": [],
+  "private_terms": [],
+  "defaults": {
+    "context": [
+      "聊天中的发言人按账号识别；昵称、引用和话中对象结合现场语境理解。",
+      "有趣的互动、约定和共同经历可以长期保留。"
+    ],
+    "names": {},
+    "terms": {},
+    "bots": []
+  },
+  "groups": {}
+}

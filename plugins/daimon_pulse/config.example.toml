@@ -1,0 +1,12 @@
+[plugin]
+enabled = true
+config_version = "1.5.0"
+prayer = "让这一拍的牌骰成为呆猫此刻的底色。"
+headache_line = "那是什么，头好痛，要长脑子了。"
+taboo_words = []
+protected_names = []
+serious_group_ids = []
+per_reply_roll = true
+tarot_first = true
+jiaobei_enabled = true
+tarot_pack_dir = "data/daimon-resources/tarot-meanings"

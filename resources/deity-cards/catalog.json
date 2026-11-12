@@ -1,0 +1,626 @@
+[
+  {
+    "slug": "aphrodite",
+    "grc": "Ἀφροδίτη",
+    "zh": "阿芙洛狄忒",
+    "en": "Aphrodite"
+  },
+  {
+    "slug": "apollo",
+    "grc": "Ἀπόλλων",
+    "zh": "阿波罗",
+    "en": "Apollo"
+  },
+  {
+    "slug": "ares",
+    "grc": "Ἄρης",
+    "zh": "阿瑞斯",
+    "en": "Ares"
+  },
+  {
+    "slug": "artemis",
+    "grc": "Ἄρτεμις",
+    "zh": "阿尔忒弥斯",
+    "en": "Artemis"
+  },
+  {
+    "slug": "athena",
+    "grc": "Ἀθηνᾶ",
+    "zh": "雅典娜",
+    "en": "Athena"
+  },
+  {
+    "slug": "demeter",
+    "grc": "Δημήτηρ",
+    "zh": "德墨忒尔",
+    "en": "Demeter"
+  },
+  {
+    "slug": "dionysus",
+    "grc": "Διόνυσος",
+    "zh": "狄俄尼索斯",
+    "en": "Dionysus"
+  },
+  {
+    "slug": "hephaestus",
+    "grc": "Ἥφαιστος",
+    "zh": "赫菲斯托斯",
+    "en": "Hephaestus"
+  },
+  {
+    "slug": "hera",
+    "grc": "Ἥρα",
+    "zh": "赫拉",
+    "en": "Hera"
+  },
+  {
+    "slug": "hermes",
+    "grc": "Ἑρμῆς",
+    "zh": "赫尔墨斯",
+    "en": "Hermes"
+  },
+  {
+    "slug": "hestia",
+    "grc": "Ἑστία",
+    "zh": "赫斯提亚",
+    "en": "Hestia"
+  },
+  {
+    "slug": "poseidon",
+    "grc": "Ποσειδῶν",
+    "zh": "波塞冬",
+    "en": "Poseidon"
+  },
+  {
+    "slug": "zeus",
+    "grc": "Ζεύς",
+    "zh": "宙斯",
+    "en": "Zeus"
+  },
+  {
+    "slug": "asclepius",
+    "grc": "Ἀσκληπιός",
+    "zh": "阿斯克勒庇俄斯",
+    "en": "Asclepius"
+  },
+  {
+    "slug": "eileithyia",
+    "grc": "Εἰλείθυια",
+    "zh": "厄勒提亚",
+    "en": "Eileithyia"
+  },
+  {
+    "slug": "eros",
+    "grc": "Ἔρως",
+    "zh": "厄洛斯",
+    "en": "Eros"
+  },
+  {
+    "slug": "ganymede",
+    "grc": "Γανυμήδης",
+    "zh": "伽倪墨得斯",
+    "en": "Ganymede"
+  },
+  {
+    "slug": "hebe",
+    "grc": "Ἥβη",
+    "zh": "赫柏",
+    "en": "Hebe"
+  },
+  {
+    "slug": "iris",
+    "grc": "Ἶρις",
+    "zh": "伊里斯",
+    "en": "Iris"
+  },
+  {
+    "slug": "hygieia",
+    "grc": "Ὑγίεια",
+    "zh": "许癸厄亚",
+    "en": "Hygieia"
+  },
+  {
+    "slug": "nike",
+    "grc": "Νίκη",
+    "zh": "倪刻",
+    "en": "Nike"
+  },
+  {
+    "slug": "pan",
+    "grc": "Πάν",
+    "zh": "潘",
+    "en": "Pan"
+  },
+  {
+    "slug": "tyche",
+    "grc": "Τύχη",
+    "zh": "堤喀",
+    "en": "Tyche"
+  },
+  {
+    "slug": "hades",
+    "grc": "Ἅιδης",
+    "zh": "哈迪斯",
+    "en": "Hades"
+  },
+  {
+    "slug": "hecate",
+    "grc": "Ἑκάτη",
+    "zh": "赫卡忒",
+    "en": "Hecate"
+  },
+  {
+    "slug": "hypnos",
+    "grc": "Ὕπνος",
+    "zh": "许普诺斯",
+    "en": "Hypnos"
+  },
+  {
+    "slug": "persephone",
+    "grc": "Περσεφόνη",
+    "zh": "珀尔塞福涅",
+    "en": "Persephone"
+  },
+  {
+    "slug": "thanatos",
+    "grc": "Θάνατος",
+    "zh": "塔纳托斯",
+    "en": "Thanatos"
+  },
+  {
+    "slug": "amphitrite",
+    "grc": "Ἀμφιτρίτη",
+    "zh": "安菲特里忒",
+    "en": "Amphitrite"
+  },
+  {
+    "slug": "nereus",
+    "grc": "Νηρεύς",
+    "zh": "涅柔斯",
+    "en": "Nereus"
+  },
+  {
+    "slug": "oceanus",
+    "grc": "Ὠκεανός",
+    "zh": "奥刻阿诺斯",
+    "en": "Oceanus"
+  },
+  {
+    "slug": "proteus",
+    "grc": "Πρωτεύς",
+    "zh": "普罗透斯",
+    "en": "Proteus"
+  },
+  {
+    "slug": "triton",
+    "grc": "Τρίτων",
+    "zh": "特里同",
+    "en": "Triton"
+  },
+  {
+    "slug": "aether",
+    "grc": "Αἰθήρ",
+    "zh": "埃忒尔",
+    "en": "Aether"
+  },
+  {
+    "slug": "ananke",
+    "grc": "Ἀνάγκη",
+    "zh": "阿南刻",
+    "en": "Ananke"
+  },
+  {
+    "slug": "chaos",
+    "grc": "Χάος",
+    "zh": "卡俄斯",
+    "en": "Chaos"
+  },
+  {
+    "slug": "ceto",
+    "grc": "Κητώ",
+    "zh": "刻托",
+    "en": "Ceto"
+  },
+  {
+    "slug": "eos",
+    "grc": "Ἠώς",
+    "zh": "厄俄斯",
+    "en": "Eos"
+  },
+  {
+    "slug": "erebus",
+    "grc": "Ἔρεβος",
+    "zh": "厄瑞玻斯",
+    "en": "Erebus"
+  },
+  {
+    "slug": "eurybia",
+    "grc": "Εὐρυβία",
+    "zh": "欧律比亚",
+    "en": "Eurybia"
+  },
+  {
+    "slug": "eurynome",
+    "grc": "Εὐρυνόμη",
+    "zh": "欧律诺墨",
+    "en": "Eurynome"
+  },
+  {
+    "slug": "gaia",
+    "grc": "Γαῖα",
+    "zh": "盖娅",
+    "en": "Gaia"
+  },
+  {
+    "slug": "helios",
+    "grc": "Ἥλιος",
+    "zh": "赫利俄斯",
+    "en": "Helios"
+  },
+  {
+    "slug": "hemera",
+    "grc": "Ἡμέρα",
+    "zh": "赫墨拉",
+    "en": "Hemera"
+  },
+  {
+    "slug": "nyx",
+    "grc": "Νύξ",
+    "zh": "倪克斯",
+    "en": "Nyx"
+  },
+  {
+    "slug": "ouranos",
+    "grc": "Οὐρανός",
+    "zh": "乌拉诺斯",
+    "en": "Ouranos"
+  },
+  {
+    "slug": "phorcys",
+    "grc": "Φόρκυς",
+    "zh": "福耳库斯",
+    "en": "Phorcys"
+  },
+  {
+    "slug": "pontus",
+    "grc": "Πόντος",
+    "zh": "蓬托斯",
+    "en": "Pontus"
+  },
+  {
+    "slug": "prometheus",
+    "grc": "Προμηθεύς",
+    "zh": "普罗米修斯",
+    "en": "Prometheus"
+  },
+  {
+    "slug": "selene",
+    "grc": "Σελήνη",
+    "zh": "塞勒涅",
+    "en": "Selene"
+  },
+  {
+    "slug": "tartarus",
+    "grc": "Τάρταρος",
+    "zh": "塔耳塔罗斯",
+    "en": "Tartarus"
+  },
+  {
+    "slug": "thaumas",
+    "grc": "Θαύμας",
+    "zh": "陶玛斯",
+    "en": "Thaumas"
+  },
+  {
+    "slug": "asteria",
+    "grc": "Ἀστερία",
+    "zh": "阿斯忒里亚",
+    "en": "Asteria"
+  },
+  {
+    "slug": "astraios",
+    "grc": "Ἀστραῖος",
+    "zh": "阿斯特赖俄斯",
+    "en": "Astraios"
+  },
+  {
+    "slug": "atlas",
+    "grc": "Ἄτλας",
+    "zh": "阿特拉斯",
+    "en": "Atlas"
+  },
+  {
+    "slug": "coeus",
+    "grc": "Κοῖος",
+    "zh": "科俄斯",
+    "en": "Coeus"
+  },
+  {
+    "slug": "crius",
+    "grc": "Κρεῖος",
+    "zh": "克里俄斯",
+    "en": "Crius"
+  },
+  {
+    "slug": "cronos",
+    "grc": "Κρόνος",
+    "zh": "克洛诺斯",
+    "en": "Cronos"
+  },
+  {
+    "slug": "epimetheus",
+    "grc": "Ἐπιμηθεύς",
+    "zh": "厄庇墨透斯",
+    "en": "Epimetheus"
+  },
+  {
+    "slug": "hyperion",
+    "grc": "Ὑπερίων",
+    "zh": "许佩里翁",
+    "en": "Hyperion"
+  },
+  {
+    "slug": "iapetus",
+    "grc": "Ἰαπετός",
+    "zh": "伊阿珀托斯",
+    "en": "Iapetus"
+  },
+  {
+    "slug": "menoetius",
+    "grc": "Μενοίτιος",
+    "zh": "墨诺提俄斯",
+    "en": "Menoetius"
+  },
+  {
+    "slug": "mnemosyne",
+    "grc": "Μνημοσύνη",
+    "zh": "谟涅摩叙涅",
+    "en": "Mnemosyne"
+  },
+  {
+    "slug": "pallas-titan",
+    "grc": "Πάλλας",
+    "zh": "帕拉斯（提坦）",
+    "en": "Pallas (Titan)"
+  },
+  {
+    "slug": "perses-titan",
+    "grc": "Πέρσης",
+    "zh": "珀耳塞斯（提坦）",
+    "en": "Perses (Titan)"
+  },
+  {
+    "slug": "phoebe",
+    "grc": "Φοίβη",
+    "zh": "福柏",
+    "en": "Phoebe"
+  },
+  {
+    "slug": "rhea",
+    "grc": "Ῥέα",
+    "zh": "瑞亚",
+    "en": "Rhea"
+  },
+  {
+    "slug": "tethys",
+    "grc": "Τηθύς",
+    "zh": "泰西斯",
+    "en": "Tethys"
+  },
+  {
+    "slug": "theia",
+    "grc": "Θεία",
+    "zh": "忒亚",
+    "en": "Theia"
+  },
+  {
+    "slug": "themis",
+    "grc": "Θέμις",
+    "zh": "忒弥斯",
+    "en": "Themis"
+  },
+  {
+    "slug": "calliope",
+    "grc": "Καλλιόπη",
+    "zh": "卡利俄佩",
+    "en": "Calliope"
+  },
+  {
+    "slug": "clio",
+    "grc": "Κλειώ",
+    "zh": "克利俄",
+    "en": "Clio"
+  },
+  {
+    "slug": "erato",
+    "grc": "Ἐρατώ",
+    "zh": "厄拉托",
+    "en": "Erato"
+  },
+  {
+    "slug": "euterpe",
+    "grc": "Εὐτέρπη",
+    "zh": "欧忒耳佩",
+    "en": "Euterpe"
+  },
+  {
+    "slug": "melpomene",
+    "grc": "Μελπομένη",
+    "zh": "墨尔波墨涅",
+    "en": "Melpomene"
+  },
+  {
+    "slug": "muses",
+    "grc": "Μοῦσαι",
+    "zh": "缪斯",
+    "en": "Muses"
+  },
+  {
+    "slug": "polyhymnia",
+    "grc": "Πολυύμνια",
+    "zh": "波吕许谟尼亚",
+    "en": "Polyhymnia"
+  },
+  {
+    "slug": "terpsichore",
+    "grc": "Τερψιχόρη",
+    "zh": "忒耳普西科瑞",
+    "en": "Terpsichore"
+  },
+  {
+    "slug": "thalia-muse",
+    "grc": "Θάλεια",
+    "zh": "塔利亚",
+    "en": "Thalia"
+  },
+  {
+    "slug": "urania",
+    "grc": "Οὐρανία",
+    "zh": "乌拉尼亚",
+    "en": "Urania"
+  },
+  {
+    "slug": "charites",
+    "grc": "Χάριτες",
+    "zh": "美惠三女神",
+    "en": "Charites"
+  },
+  {
+    "slug": "erinyes",
+    "grc": "Ἐρινύες",
+    "zh": "复仇三女神",
+    "en": "Erinyes"
+  },
+  {
+    "slug": "horae",
+    "grc": "Ὧραι",
+    "zh": "时序三女神",
+    "en": "Horae"
+  },
+  {
+    "slug": "moirai",
+    "grc": "Μοῖραι",
+    "zh": "命运三女神",
+    "en": "Moirai"
+  },
+  {
+    "slug": "nereids",
+    "grc": "Νηρηΐδες",
+    "zh": "涅瑞伊得斯",
+    "en": "Nereids"
+  },
+  {
+    "slug": "achilles",
+    "grc": "Ἀχιλλεύς",
+    "zh": "阿基琉斯",
+    "en": "Achilles"
+  },
+  {
+    "slug": "bellerophon",
+    "grc": "Βελλεροφῶν",
+    "zh": "柏勒洛丰",
+    "en": "Bellerophon"
+  },
+  {
+    "slug": "cadmus",
+    "grc": "Κάδμος",
+    "zh": "卡德摩斯",
+    "en": "Cadmus"
+  },
+  {
+    "slug": "heracles",
+    "grc": "Ἡρακλῆς",
+    "zh": "赫拉克勒斯",
+    "en": "Heracles"
+  },
+  {
+    "slug": "jason",
+    "grc": "Ἰάσων",
+    "zh": "伊阿宋",
+    "en": "Jason"
+  },
+  {
+    "slug": "minos",
+    "grc": "Μίνως",
+    "zh": "弥诺斯",
+    "en": "Minos"
+  },
+  {
+    "slug": "odysseus",
+    "grc": "Ὀδυσσεύς",
+    "zh": "奥德修斯",
+    "en": "Odysseus"
+  },
+  {
+    "slug": "orpheus",
+    "grc": "Ὀρφεύς",
+    "zh": "俄耳甫斯",
+    "en": "Orpheus"
+  },
+  {
+    "slug": "perseus",
+    "grc": "Περσεύς",
+    "zh": "珀耳修斯",
+    "en": "Perseus"
+  },
+  {
+    "slug": "theseus",
+    "grc": "Θησεύς",
+    "zh": "忒修斯",
+    "en": "Theseus"
+  },
+  {
+    "slug": "cerberus",
+    "grc": "Κέρβερος",
+    "zh": "刻耳柏洛斯",
+    "en": "Cerberus"
+  },
+  {
+    "slug": "chimera",
+    "grc": "Χίμαιρα",
+    "zh": "喀迈拉",
+    "en": "Chimera"
+  },
+  {
+    "slug": "echidna",
+    "grc": "Ἔχιδνα",
+    "zh": "厄喀德娜",
+    "en": "Echidna"
+  },
+  {
+    "slug": "hydra",
+    "grc": "Λερναία Ὕδρα",
+    "zh": "勒耳那九头蛇",
+    "en": "Lernaean Hydra"
+  },
+  {
+    "slug": "medusa",
+    "grc": "Μέδουσα",
+    "zh": "美杜莎",
+    "en": "Medusa"
+  },
+  {
+    "slug": "minotaur",
+    "grc": "Μῑνώταυρος",
+    "zh": "米诺陶",
+    "en": "Minotaur"
+  },
+  {
+    "slug": "nemean-lion",
+    "grc": "Λέων τῆς Νεμέας",
+    "zh": "涅墨亚雄狮",
+    "en": "Nemean Lion"
+  },
+  {
+    "slug": "sphinx",
+    "grc": "Σφίγξ",
+    "zh": "斯芬克斯",
+    "en": "Sphinx"
+  },
+  {
+    "slug": "typhon",
+    "grc": "Τυφωεύς",
+    "zh": "提丰",
+    "en": "Typhon"
+  }
+]

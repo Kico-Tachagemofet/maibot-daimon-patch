@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "version": "0.1.0",
+  "name": "小亚细亚五羊距骨神谕",
+  "description": "公元二世纪小亚细亚石柱 56 签五羊距骨神谕（Astragalomancy），真实羊距骨四面物理权重投掷 + 本地希腊神祇库联动（显式入口版）。",
+  "author": {
+    "name": "Kico",
+    "url": "https://github.com/Kico-Tachagemofet"
+  },
+  "license": "MIT",
+  "urls": {
+    "repository": "https://github.com/Kico-Tachagemofet",
+    "homepage": "https://github.com/Kico-Tachagemofet"
+  },
+  "host_application": {
+    "min_version": "1.3.19",
+    "max_version": "1.3.19"
+  },
+  "sdk": {
+    "min_version": "2.0.0",
+    "max_version": "2.99.999"
+  },
+  "dependencies": [],
+  "capabilities": [
+    "send.text",
+    "llm.generate"
+  ],
+  "plugin_type": "function",
+  "i18n": {
+    "default_locale": "zh-CN",
+    "supported_locales": [
+      "zh-CN"
+    ]
+  },
+  "id": "kico.astragaloi"
+}

@@ -1,0 +1,9 @@
+[plugin]
+enabled = true
+config_version = "2.1.0"
+digest = true
+digest_task = "replyer"
+digest_model = ""
+digest_max_tokens = 700
+show_line = true
+cooldown_seconds = 60

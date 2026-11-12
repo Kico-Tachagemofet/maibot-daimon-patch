@@ -1,0 +1,23 @@
+[plugin]
+enabled = true
+config_version = "0.1.0"
+# 先观察判定记录，确认希望自动发言后设为 false。
+dry_run = true
+window_minutes = 8
+max_messages = 40
+probe_cooldown_seconds = 90
+say_cooldown_minutes = 25
+daily_cap = 6
+min_strength = 0.7
+judge_task = "replyer"
+judge_model = ""
+compose_task = "replyer"
+compose_model = ""
+group_allowlist = []
+group_blocklist = []
+allow_private = false
+bot_nicknames = ["呆猫", "小苗"]
+# 填写安装者自己的机器人账号。
+bot_user_ids = []
+taboo_words = []
+protected_names = []

@@ -1,0 +1,24 @@
+[plugin]
+enabled = true
+data_path = "data/daimon-resources/astragaloi/asia_minor_56.json"
+deity_dir = "data/daimon-resources/deity-cards"
+use_real_bone_weights = true
+digest = true
+digest_task = "replyer"
+digest_model = ""
+digest_max_tokens = 800
+show_line = true
+min_chars = 80
+max_chars = 150
+jiaobei_gate = true
+state_path = ""
+success_hourly = 5
+success_daily = 12
+success_gap_seconds = 30
+topic_strike_limit = 3
+answered_window_hours = 6
+topic_similarity_floor = 0.45
+topic_match_task = "replyer"
+topic_match_model = ""
+asker_exempt_user_ids = []
+config_version = "0.2.0"

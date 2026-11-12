@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "0.1.0",
+  "name": "梅花易数 · 一卦多断",
+  "description": "三数起卦、主互变、体用生克，与同拍塔罗星骰合参。",
+  "author": {
+    "name": "Kico",
+    "url": "https://github.com/Kico-Tachagemofet/meihua-yishu"
+  },
+  "license": "MIT",
+  "urls": {
+    "repository": "https://github.com/Kico-Tachagemofet/meihua-yishu",
+    "homepage": "https://github.com/Kico-Tachagemofet/meihua-yishu"
+  },
+  "host_application": {
+    "min_version": "1.3.19",
+    "max_version": "1.3.19"
+  },
+  "sdk": {
+    "min_version": "2.0.0",
+    "max_version": "2.99.999"
+  },
+  "dependencies": [],
+  "capabilities": [
+    "send.text",
+    "llm.generate"
+  ],
+  "i18n": {
+    "default_locale": "zh-CN",
+    "supported_locales": [
+      "zh-CN"
+    ]
+  },
+  "id": "kico.meihua"
+}

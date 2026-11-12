@@ -1,0 +1,1216 @@
+{
+  "schema_version": 1,
+  "pack_id": "asia-minor-five-astragaloi-56",
+  "version": "1.0.0",
+  "title": "小亚细亚五羊距骨神谕（56签碑铭汇校本）",
+  "sources": [
+    "Kremna, IK 57 no. 5 (Horsley & Mitchell 2000)",
+    "Termessos, TAM III,1 34-35 (PHI Greek Inscriptions)",
+    "Fritz Graf (2005), Rolling the Dice for an Answer",
+    "Johannes Nollé (2007), Kleinasiatische Losorakel",
+    "Franz Heinevetter (1912), Würfel- und Buchstabenorakel in Griechenland und Kleinasien (Adyton Critical Edition)",
+    "John Opsopaus (2019), The Astragalomanteion Handbook"
+  ],
+  "face_weights_real": {
+    "1": 0.1,
+    "3": 0.4,
+    "4": 0.4,
+    "6": 0.1
+  },
+  "face_names": {
+    "1": {
+      "grc": "Χῖος",
+      "zh": "希俄斯窄面"
+    },
+    "3": {
+      "grc": "ὕπτιον",
+      "zh": "仰卧凹宽面"
+    },
+    "4": {
+      "grc": "πρανές",
+      "zh": "俯卧凸宽面"
+    },
+    "6": {
+      "grc": "Κῷος",
+      "zh": "科斯S沟窄面"
+    }
+  },
+  "throws": {
+    "1-1-1-1-1": {
+      "index": 1,
+      "bones": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sum": 5,
+      "prob_real": 0.00001,
+      "deity_grc": "Ζηνὸς Ὀλυμπίου",
+      "deity_en": "Olympian Zeus",
+      "deity_zh": "奥林匹亚宙斯",
+      "base_deity_slug": "zeus",
+      "deity_note": "",
+      "verdict": "大吉·宜行",
+      "imagery_zh": "宙斯赐善谋于心，兼敬爱神与迈亚之子",
+      "oracle_zh": "异乡求问者，救护者宙斯将以善谋赐予汝心，令汝所行诸事皆得欢愉，凡所祈愿尽皆顺遂；然须虔诚礼敬阿芙洛狄忒与迈亚之子（赫尔墨斯）。",
+      "source_ref": "Kremna I (IK 57, 5) / Heinevetter I (K, S；题头异文 Διὸς Ὀλυμπίου)"
+    },
+    "1-1-1-1-3": {
+      "index": 2,
+      "bones": [
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "sum": 7,
+      "prob_real": 0.0002,
+      "deity_grc": "Ἀθηνᾶς Ἀρείας",
+      "deity_en": "Athena Areia",
+      "deity_zh": "尚武雅典娜",
+      "base_deity_slug": "athena",
+      "deity_note": "",
+      "verdict": "大吉·避祸夺魁",
+      "imagery_zh": "远避仇怨灾厄终获锦标，明眸雅典娜亲施救护",
+      "oracle_zh": "汝将脱却仇怨与灾厄，终得赴赛夺魁；汝必安抵彼处，明眸女神雅典娜将亲手救护于汝，心中所谋之事亦必称心如意。",
+      "source_ref": "Kremna II (IK 57, 5) / Heinevetter II (K, O, S)"
+    },
+    "1-1-1-1-4": {
+      "index": 3,
+      "bones": [
+        1,
+        1,
+        1,
+        1,
+        4
+      ],
+      "sum": 8,
+      "prob_real": 0.0002,
+      "deity_grc": "Μοιρῶν",
+      "deity_en": "The Moirai",
+      "deity_zh": "命运三女神",
+      "base_deity_slug": "moirai",
+      "deity_note": "",
+      "verdict": "凶中带平·罢手缓行",
+      "imagery_zh": "所谋之事当止，问病凶险难医，羁旅远行经时无咎",
+      "oracle_zh": "切莫施行汝正筹划之事，行之无益；若问病困之人，其势沉重难解、百计无施；至于羁旅在外或暂出远行，假以时日终无灾咎。",
+      "source_ref": "Kremna III (IK 57, 5) / Heinevetter III (K, O, S；次句 κάμνοντος 指病困之人，末句异文作远游者将归)"
+    },
+    "1-1-1-3-3": {
+      "index": 4,
+      "bones": [
+        1,
+        1,
+        1,
+        3,
+        3
+      ],
+      "sum": 9,
+      "prob_real": 0.0016,
+      "deity_grc": "Ἀετοῦ Διός",
+      "deity_en": "Eagle of Zeus",
+      "deity_zh": "宙斯神鹰",
+      "base_deity_slug": "zeus",
+      "deity_note": "宙斯之圣鹰吉兆相，在希腊鸟占传统中现于旅人右侧的高飞神鹰象征宙斯亲授顺遂神旨。",
+      "verdict": "大吉·放手径行",
+      "imagery_zh": "高飞神鹰现于行旅右侧，偕至高宙斯勇往无惧",
+      "oracle_zh": "凌空高翔之神鹰现于旅人右侧，赐下上吉神谕；有至高宙斯相偕，尽管放手去成汝奋力欲行之事，切勿心怀畏惧。",
+      "source_ref": "Kremna IV (IK 57, 5) / Heinevetter IV (O, K)"
+    },
+    "1-1-1-1-6": {
+      "index": 5,
+      "bones": [
+        1,
+        1,
+        1,
+        1,
+        6
+      ],
+      "sum": 10,
+      "prob_real": 0.00005,
+      "deity_grc": "Δαίμονος Μεγίστου",
+      "deity_en": "Greatest Daimon",
+      "deity_zh": "至高灵神",
+      "base_deity_slug": "",
+      "deity_note": "罗马帝国时期小亚细亚城邦宗教尊奉的至高守护灵神（Daimon Megistos），司掌许愿契约与家邦庇护。",
+      "verdict": "吉·还愿乃成",
+      "imagery_zh": "先向灵神偿还宿愿，德墨忒尔与宙斯同作救主",
+      "oracle_zh": "若欲令萦怀筹谋之事称心遂意，须先向灵神偿还汝所许之宿愿，方得顺吉；盖德墨忒尔与宙斯皆将作汝救护之主。",
+      "source_ref": "Kremna V (IK 57, 5) / Heinevetter V (O, K)"
+    },
+    "1-1-1-3-4": {
+      "index": 6,
+      "bones": [
+        1,
+        1,
+        1,
+        3,
+        4
+      ],
+      "sum": 10,
+      "prob_real": 0.0032,
+      "deity_grc": "Τύχης Κηδεμόνος",
+      "deity_en": "Guardian Tyche",
+      "deity_zh": "护佑者堤喀",
+      "base_deity_slug": "tyche",
+      "deity_note": "",
+      "verdict": "中平·止谋愈疾",
+      "imagery_zh": "目下所谋且止，诸神护持病困之人终解其苦",
+      "oracle_zh": "汝目下意欲着手之事，切莫施行；然身处病厄困顿之中者，诸神正稳稳扶持保佑，必为汝解脱苦痛，终无灾祸。",
+      "source_ref": "Kremna VI (IK 57, 5) / Heinevetter VI (O；奥尔梅利斯碑题头异文作 Τύχης Εὐδαίμονος「福运堤喀」)"
+    },
+    "1-1-3-3-3": {
+      "index": 7,
+      "bones": [
+        1,
+        1,
+        3,
+        3,
+        3
+      ],
+      "sum": 11,
+      "prob_real": 0.0064,
+      "deity_grc": "Νείκης",
+      "deity_en": "Nike",
+      "deity_zh": "胜利女神倪刻",
+      "base_deity_slug": "nike",
+      "deity_note": "",
+      "verdict": "大吉·克敌全胜",
+      "imagery_zh": "灵神赐尊荣以制强敌，凡所欲求尽归掌握",
+      "oracle_zh": "汝必获胜，得偿所愿，万事尽归汝手；灵神将赐汝尊荣，令汝制服仇敌，心中所求之谋略皆必如愿以偿。",
+      "source_ref": "Kremna VII (IK 57, 5; Graf 2005) / Heinevetter VII (O 残存末二行，由克雷姆纳碑补全)"
+    },
+    "1-1-1-4-4": {
+      "index": 8,
+      "bones": [
+        1,
+        1,
+        1,
+        4,
+        4
+      ],
+      "sum": 11,
+      "prob_real": 0.0016,
+      "deity_grc": "Νίκης Χαριέσσης",
+      "deity_en": "Gracious Nike",
+      "deity_zh": "仁惠胜利女神倪刻",
+      "base_deity_slug": "nike",
+      "deity_note": "",
+      "verdict": "大吉·事成病愈",
+      "imagery_zh": "诸事咸宜，卧榻病者得救，异乡远人归来",
+      "oracle_zh": "此事尽管全盘施行，前途必更顺遂；卧病榻上之人，诸神必予救治；羁留异邦之远人亦将归来，此乃神明昭告。",
+      "source_ref": "Kremna VIII (IK 57, 5; Graf 2005; Nollé 2007；Heinevetter VIII 旧缺，据克雷姆纳碑补全)"
+    },
+    "1-1-3-3-4": {
+      "index": 9,
+      "bones": [
+        1,
+        1,
+        3,
+        3,
+        4
+      ],
+      "sum": 12,
+      "prob_real": 0.0192,
+      "deity_grc": "Ἀσκληπιοῦ",
+      "deity_en": "Asclepius",
+      "deity_zh": "医药神阿斯克勒庇俄斯",
+      "base_deity_slug": "asclepius",
+      "deity_note": "",
+      "verdict": "先险后吉·终得安归",
+      "imagery_zh": "虽有风浪相逼而于汝无碍，苦厄得救、远人安返",
+      "oracle_zh": "此事虽有风暴催逼，于汝却终归顺吉；神明宣告必救拔苦厄挣扎之人，诸神亦将护送远方游子平安归家。",
+      "source_ref": "Kremna IX (IK 57, 5; Graf 2005；Heinevetter 拟排第 X 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-1-1-3-6": {
+      "index": 10,
+      "bones": [
+        1,
+        1,
+        1,
+        3,
+        6
+      ],
+      "sum": 12,
+      "prob_real": 0.0008,
+      "deity_grc": "Τύχης Κυβερνώσης",
+      "deity_en": "Tyche the Guide",
+      "deity_zh": "掌舵领航之堤喀",
+      "base_deity_slug": "tyche",
+      "deity_note": "",
+      "verdict": "缓·戒躁待时",
+      "imagery_zh": "盲目冒进必自重伤，静守良机终达所愿",
+      "oracle_zh": "目下切莫急进，贸然出行不利，当暂留守候；若轻率盲动，必致重损己身；静待正当时机来临，所求诸事终将尽数达成。",
+      "source_ref": "Kremna X (IK 57, 5; Graf 2005；Heinevetter 拟排第 IX 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-1-1-4-6": {
+      "index": 11,
+      "bones": [
+        1,
+        1,
+        1,
+        4,
+        6
+      ],
+      "sum": 13,
+      "prob_real": 0.0008,
+      "deity_grc": "Ἀφροδίτης",
+      "deity_en": "Aphrodite",
+      "deity_zh": "阿芙洛狄忒",
+      "base_deity_slug": "aphrodite",
+      "deity_note": "",
+      "verdict": "大吉·欢喜凯旋",
+      "imagery_zh": "随心启程欢欣返家，兼敬阿芙洛狄忒与迈亚之子",
+      "oracle_zh": "但随汝心所欲启程前往，必将满怀欢喜归家；心中渴求之事皆能寻获做成；唯须虔诚礼敬阿芙洛狄忒与迈亚之子（赫尔墨斯）。",
+      "source_ref": "Kremna XI (IK 57, 5; Graf 2005；Heinevetter XI 旧缺，据克雷姆纳碑补全)"
+    },
+    "1-3-3-3-3": {
+      "index": 12,
+      "bones": [
+        1,
+        3,
+        3,
+        3,
+        3
+      ],
+      "sum": 13,
+      "prob_real": 0.0128,
+      "deity_grc": "Διὸς καὶ Ἀθηνᾶς",
+      "deity_en": "Zeus and Athena",
+      "deity_zh": "宙斯与雅典娜",
+      "base_deity_slug": "zeus",
+      "deity_note": "与雅典娜（athena）双神共掌此签。",
+      "verdict": "大吉·诸事俱备",
+      "imagery_zh": "万事咸宜筹备已足，病者速愈余占皆吉",
+      "oracle_zh": "汝于诸事皆宜，行事筹备俱已周全；抱病在身之人，诸神必爽快救治；至于所问其余诸般卜兆，亦尽皆安好。",
+      "source_ref": "Kremna XII (IK 57, 5; Graf 2005；Heinevetter 旧缺，据克雷姆纳碑补全)"
+    },
+    "1-1-3-4-4": {
+      "index": 13,
+      "bones": [
+        1,
+        1,
+        3,
+        4,
+        4
+      ],
+      "sum": 13,
+      "prob_real": 0.0192,
+      "deity_grc": "Ὡρῶν",
+      "deity_en": "The Horai",
+      "deity_zh": "时序三女神",
+      "base_deity_slug": "horae",
+      "deity_note": "",
+      "verdict": "凶·忌讼待时",
+      "imagery_zh": "所谋难成无益，神明禁行，尤忌争讼对簿",
+      "oracle_zh": "汝所筹划之事难捕无益，切莫择取；神明不许汝所行之谋，且当静候；此时若入纷争、竞斗与词讼审判，凶险至极。",
+      "source_ref": "Kremna XIII (IK 57, 5; Graf 2005) / Heinevetter XIII (Y 残存末二行，克雷姆纳碑证归此骨型并补题头 Ὡρῶν)"
+    },
+    "1-3-3-3-4": {
+      "index": 14,
+      "bones": [
+        1,
+        3,
+        3,
+        3,
+        4
+      ],
+      "sum": 14,
+      "prob_real": 0.0512,
+      "deity_grc": "Ποσειδῶνος",
+      "deity_en": "Poseidon",
+      "deity_zh": "波塞冬",
+      "base_deity_slug": "poseidon",
+      "deity_note": "",
+      "verdict": "大凶·勿逆天时",
+      "imagery_zh": "足踢刺棒、迎浪苦撑、大海寻鱼，切勿逆时强逼神明",
+      "oracle_zh": "汝正以足踢刺棒、迎逆浪徒劳苦撑、向茫茫大海盲目寻鱼；切莫急赴此事！生不逢时而强逼诸神，于汝绝无半分裨益。",
+      "source_ref": "Kremna XIV (IK 57, 5) / Heinevetter XIV (K, Y, S；题头 Ποσειδῶνος 由克雷姆纳碑补全)"
+    },
+    "1-1-3-3-6": {
+      "index": 15,
+      "bones": [
+        1,
+        1,
+        3,
+        3,
+        6
+      ],
+      "sum": 14,
+      "prob_real": 0.0048,
+      "deity_grc": "Δαίμονος",
+      "deity_en": "Daimon",
+      "deity_zh": "命数灵神",
+      "base_deity_slug": "",
+      "deity_note": "司掌个人命数分际的神圣灵力（Daimon），告诫求问者勿生恶念、勿逆天意而行。",
+      "verdict": "凶·勿逆神行",
+      "imagery_zh": "勿怀可怖妄念逆灵神而行，所踏前路毫无进益",
+      "oracle_zh": "汝切莫心生可怖妄念，亦莫怀抱凶险之思与灵神相逆而行；此举绝无寸利可得，汝正踏上之道路亦无半分收益归汝。",
+      "source_ref": "Kremna XV (IK 57, 5) / Heinevetter XV (Y, S, K, O；题头 Δαίμονος 由克雷姆纳碑补全)"
+    },
+    "1-1-4-4-4": {
+      "index": 16,
+      "bones": [
+        1,
+        1,
+        4,
+        4,
+        4
+      ],
+      "sum": 14,
+      "prob_real": 0.0064,
+      "deity_grc": "Ἀγαθοῦ Δαίμονος",
+      "deity_en": "Agathos Daimon",
+      "deity_zh": "善灵神",
+      "base_deity_slug": "",
+      "deity_note": "希腊化与罗马帝国时期广泛崇祀的家宅、丰饶与好运守护神阿伽索斯·代蒙（Agathos Daimon，「善灵」）。",
+      "verdict": "大吉·硕果顺途",
+      "imagery_zh": "善灵引路、含笑爱神护送，满载硕果安然前行",
+      "oracle_zh": "灵神将亲自引领汝意欲踏上之途，喜爱欢笑的阿芙洛狄忒亦将送汝臻于善境；汝必满载丰硕成果，伴无灾之吉命安然前行。",
+      "source_ref": "Kremna XVI (IK 57, 5) / Heinevetter XVI (O, S)"
+    },
+    "1-3-3-4-4": {
+      "index": 17,
+      "bones": [
+        1,
+        3,
+        3,
+        4,
+        4
+      ],
+      "sum": 15,
+      "prob_real": 0.0768,
+      "deity_grc": "Διὸς Σωτῆρος",
+      "deity_en": "Zeus the Savior",
+      "deity_zh": "救护者宙斯",
+      "base_deity_slug": "zeus",
+      "deity_note": "",
+      "verdict": "大吉·勇往立行",
+      "imagery_zh": "诸神已显嘉美卜兆，放胆着手绝无灾咎",
+      "oracle_zh": "汝目下意欲谋划之事，尽管放胆前往施行！速速着手，盖诸神已昭示此番嘉美神谕；勿再自寻忧劳，汝必毫无灾咎。",
+      "source_ref": "Kremna XVII (IK 57, 5) / Heinevetter XVII (O, S)"
+    },
+    "1-1-1-6-6": {
+      "index": 18,
+      "bones": [
+        1,
+        1,
+        1,
+        6,
+        6
+      ],
+      "sum": 15,
+      "prob_real": 0.0001,
+      "deity_grc": "Διὸς Ἄμμωνος",
+      "deity_en": "Zeus Ammon",
+      "deity_zh": "宙斯·阿蒙",
+      "base_deity_slug": "zeus",
+      "deity_note": "希腊宙斯与利比亚锡瓦绿洲神谕主神阿蒙（Ammon）融合而成的最高神谕主宰。",
+      "verdict": "大吉·高雷护途",
+      "imagery_zh": "高天鸣雷之宙斯亲临救护，心之所向放胆登程",
+      "oracle_zh": "汝心中筹思欲往之路，尽管放胆登程；神明必赐予一切，凡心意所命诸事汝皆能尽数办成，高天鸣雷的宙斯将亲临作汝救主。",
+      "source_ref": "Kremna XVIII (IK 57, 5) / Heinevetter XVIII (O)"
+    },
+    "3-3-3-3-3": {
+      "index": 19,
+      "bones": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "sum": 15,
+      "prob_real": 0.01024,
+      "deity_grc": "Τύχης Σωτείρας",
+      "deity_en": "Tyche the Savior",
+      "deity_zh": "救护者堤喀",
+      "base_deity_slug": "tyche",
+      "deity_note": "",
+      "verdict": "先枯后荣·终获甘实",
+      "imagery_zh": "新产妇人双乳干涸，旋复盈涨甘乳丰沛",
+      "oracle_zh": "恰如初产婴孩之妇双乳一度干涸，旋即再度充盈、乳汁丰沛涌流；汝向吾所问诸事，终有一日亦将尽得美满硕果。",
+      "source_ref": "Kremna XIX (IK 57, 5) / Heinevetter XIX (O；奥尔梅利斯碑题头异文作 Τύχης Ἀγαθῆς「善运堤喀」)"
+    },
+    "1-1-3-4-6": {
+      "index": 20,
+      "bones": [
+        1,
+        1,
+        3,
+        4,
+        6
+      ],
+      "sum": 15,
+      "prob_real": 0.0096,
+      "deity_grc": "Διὸς Ξενίου",
+      "deity_en": "Zeus Xenios",
+      "deity_zh": "护客者宙斯",
+      "base_deity_slug": "zeus",
+      "deity_note": "",
+      "verdict": "缓·事止人安",
+      "imagery_zh": "时辰未至勿急行，病困速得神救，异邦行客将归",
+      "oracle_zh": "汝欲着手之事切勿急迫，盖时辰尚未到来；然身陷病厄困苦者，诸神必速予救护；神明亦宣告羁留异邦之人将罢途归来。",
+      "source_ref": "Kremna XX (IK 57, 5) / Heinevetter XX (O)"
+    },
+    "1-3-3-3-6": {
+      "index": 21,
+      "bones": [
+        1,
+        3,
+        3,
+        3,
+        6
+      ],
+      "sum": 16,
+      "prob_real": 0.0128,
+      "deity_grc": "Ἡρακλέους",
+      "deity_en": "Heracles",
+      "deity_zh": "赫拉克勒斯",
+      "base_deity_slug": "heracles",
+      "deity_note": "",
+      "verdict": "缓·戒急防盲",
+      "imagery_zh": "时机未至莫如母犬急产盲崽，静心筹度神自引路",
+      "oracle_zh": "时机未至而汝操之过急，切莫徒劳妄动，免如古谚所谓母犬急产双目失明之幼崽；当静心审慎筹谋，神明自会为汝引路。",
+      "source_ref": "Kremna XXI (IK 57, 5) / Heinevetter XXI (O；克雷姆纳碑存古谚正字 κύων「母犬产盲崽」，Heinevetter 旧校误作 λέων「狮」)"
+    },
+    "1-1-4-4-6": {
+      "index": 22,
+      "bones": [
+        1,
+        1,
+        4,
+        4,
+        6
+      ],
+      "sum": 16,
+      "prob_real": 0.0048,
+      "deity_grc": "Ἄρεως",
+      "deity_en": "Ares",
+      "deity_zh": "阿瑞斯",
+      "base_deity_slug": "ares",
+      "deity_note": "",
+      "verdict": "缓·少待中的",
+      "imagery_zh": "未备而盲追无益，稍安静候自能一击中的",
+      "oracle_zh": "何苦如此仓促？且当安静守候，盖时机尚未成熟；若轻率盲进，不过追逐未备之事；汝今未见良机，稍待片刻必能一击中的。",
+      "source_ref": "Kremna XXII (IK 57, 5; Graf 2005) / Heinevetter XXII (O 仅存首句骨相辞，正文由克雷姆纳碑补全)"
+    },
+    "3-3-3-3-4": {
+      "index": 23,
+      "bones": [
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "sum": 16,
+      "prob_real": 0.0512,
+      "deity_grc": "Κρόνου",
+      "deity_en": "Kronos",
+      "deity_zh": "克洛诺斯",
+      "base_deity_slug": "cronos",
+      "deity_note": "",
+      "verdict": "凶·群蝎当道",
+      "imagery_zh": "群蝎拦路，勿急行亦勿买卖，留守方得如愿",
+      "oracle_zh": "前路群蝎当道！切莫急赴汝所意欲之事；若肯安留静待，心中所愿终将成就，盖眼下无论买进抑或售出皆无益处。",
+      "source_ref": "Kremna XXIII (IK 57, 5; Graf 2005；Heinevetter 拟排第 XXIV 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-3-4-4-4": {
+      "index": 24,
+      "bones": [
+        1,
+        3,
+        4,
+        4,
+        4
+      ],
+      "sum": 16,
+      "prob_real": 0.0512,
+      "deity_grc": "Ἀπόλλωνος Δελφικοῦ",
+      "deity_en": "Delphic Apollo",
+      "deity_zh": "德尔斐阿波罗",
+      "base_deity_slug": "apollo",
+      "deity_note": "",
+      "verdict": "缓·戒急顺成",
+      "imagery_zh": "良机未显勿急买卖，神明终将引汝如愿成就",
+      "oracle_zh": "切莫急躁，汝尚未窥见良机；待时而动，所行诸事终将尽如汝意，神明亦必亲自引领；眼下无论买进或售出皆切忌仓促。",
+      "source_ref": "Kremna XXIV (IK 57, 5; Graf 2005；Heinevetter 拟排第 XXIII 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-1-3-6-6": {
+      "index": 25,
+      "bones": [
+        1,
+        1,
+        3,
+        6,
+        6
+      ],
+      "sum": 17,
+      "prob_real": 0.0012,
+      "deity_grc": "Ἴσιδος Σωτείρας",
+      "deity_en": "Isis the Savior",
+      "deity_zh": "救护女神伊西斯",
+      "base_deity_slug": "",
+      "deity_note": "源自埃及并盛行于希腊罗马东地中海的救护女神伊西斯（Isis Soteira），主掌良缘婚嫁、行旅平安与苦厄救赎。",
+      "verdict": "大吉·婚嫁遂愿",
+      "imagery_zh": "领受德尔斐三足鼎神言，洞房盈喜、缔姻归家",
+      "oracle_zh": "当领受德尔斐三足神鼎之训言：良机将至，洞房丰盈喜庆，汝必缔结良缘而归家；凡心所愿，所谋所求皆能圆满竟功。",
+      "source_ref": "Kremna XXV (IK 57, 5; Graf 2005；Heinevetter 拟排第 XXVII 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-3-3-4-6": {
+      "index": 26,
+      "bones": [
+        1,
+        3,
+        3,
+        4,
+        6
+      ],
+      "sum": 17,
+      "prob_real": 0.0384,
+      "deity_grc": "Ἑρμοῦ Σωτῆρος",
+      "deity_en": "Hermes the Savior",
+      "deity_zh": "救护者赫尔墨斯",
+      "base_deity_slug": "hermes",
+      "deity_note": "",
+      "verdict": "大吉·祈神圆成",
+      "imagery_zh": "所问毫无痛厄，勿馁勇行并虔心祈祷，果实圆满",
+      "oracle_zh": "就汝所问之事，吾未见丝毫苦厄；切莫气馁，尽管放胆前行，凡汝所愿皆将寻获；唯亦当虔诚祈祷，所得果实必臻圆满。",
+      "source_ref": "Kremna XXVI (IK 57, 5; Graf 2005；Heinevetter XXVI 旧缺，据克雷姆纳碑补全)"
+    },
+    "3-3-3-4-4": {
+      "index": 27,
+      "bones": [
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "sum": 17,
+      "prob_real": 0.1024,
+      "deity_grc": "Σαράπιδος",
+      "deity_en": "Sarapis",
+      "deity_zh": "萨拉皮斯",
+      "base_deity_slug": "",
+      "deity_note": "托勒密王朝确立并传遍小亚细亚城邦的希腊—埃及融合主神萨拉皮斯（Sarapis），兼具冥主、医治与救护神谕权能。",
+      "verdict": "大吉·争竞制胜",
+      "imagery_zh": "护财宙斯助阵降伏对手，勇往抗争诸业欢欣",
+      "oracle_zh": "放胆奋起争竞！护财者宙斯将作汝强援，必替汝制住对手，令其落入汝掌中；祂更将赐汝事业欢愉，令汝满心喜乐。",
+      "source_ref": "Kremna XXVII (IK 57, 5; Graf 2005；Heinevetter 拟排第 XXV 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-4-4-4-4": {
+      "index": 28,
+      "bones": [
+        1,
+        4,
+        4,
+        4,
+        4
+      ],
+      "sum": 17,
+      "prob_real": 0.0128,
+      "deity_grc": "Νεμέσεως",
+      "deity_en": "Nemesis",
+      "deity_zh": "涅墨西斯",
+      "base_deity_slug": "",
+      "deity_note": "司掌天道均衡、分际尺度与公义报偿的女神涅墨西斯（Nemesis），在小亚细亚城邦备受崇祀。",
+      "verdict": "大吉·无瑕顺遂",
+      "imagery_zh": "灵神引领正途成全诸事，毋须心力交瘁终得无瑕遂愿",
+      "oracle_zh": "如今灵神正为汝成全万事，引汝踏上正途；汝将按心意办成一切，故勿再苦耗心神；凡心所向往者，汝皆将无瑕无憾尽数得偿。",
+      "source_ref": "Kremna XXVIII (IK 57, 5) / Heinevetter XXVIII (Y, T；题头 Νεμέσεως 由克雷姆纳碑补全)"
+    },
+    "1-1-4-6-6": {
+      "index": 29,
+      "bones": [
+        1,
+        1,
+        4,
+        6,
+        6
+      ],
+      "sum": 18,
+      "prob_real": 0.0012,
+      "deity_grc": "Ἀδραστείας",
+      "deity_en": "Adrasteia",
+      "deity_zh": "阿德拉斯忒亚",
+      "base_deity_slug": "",
+      "deity_note": "弗里吉亚—小亚细亚古神阿德拉斯忒亚（Adrasteia，意为「不可逃避者」），司掌不可违逆之定数，常与涅墨西斯及库柏勒相融。",
+      "verdict": "险中得吉·良机护佑",
+      "imagery_zh": "险境虽伴身侧而良机神亲临护持，所谋终成余占皆吉",
+      "oracle_zh": "汝将办妥此事，良机之神（Kairos）亦将亲临护持；然发端之处尚有艰险相傍，须加提防；至于其余所问诸般卜兆，于汝皆属顺吉。",
+      "source_ref": "Kremna XXIX (IK 57, 5) / Heinevetter XXIX (O, T)"
+    },
+    "1-3-4-4-6": {
+      "index": 30,
+      "bones": [
+        1,
+        3,
+        4,
+        4,
+        6
+      ],
+      "sum": 18,
+      "prob_real": 0.0384,
+      "deity_grc": "Διὸς Κεραυνίου",
+      "deity_en": "Zeus Keraunios",
+      "deity_zh": "雷霆宙斯",
+      "base_deity_slug": "zeus",
+      "deity_note": "",
+      "verdict": "凶·忌远行置买",
+      "imagery_zh": "筹谋难遂己意，远游异乡无利，采买亦不识何物有益",
+      "oracle_zh": "汝苦心筹虑之事，断难如汝心意办成；无论远赴异乡出行于汝无益，即令出资采买，汝亦无从辨明何者方有实利。",
+      "source_ref": "Kremna XXX (IK 57, 5) / Heinevetter XXX (O, T)"
+    },
+    "3-3-4-4-4": {
+      "index": 31,
+      "bones": [
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "sum": 18,
+      "prob_real": 0.1024,
+      "deity_grc": "Δαίμονος Ἱκεσίου",
+      "deity_en": "Daimon of the Suppliants",
+      "deity_zh": "护佑祈求者之灵神",
+      "base_deity_slug": "",
+      "deity_note": "庇护恳求者与乞援者的神圣灵力（Daimon Hikesios），与古希腊「护佑祈求者宙斯」（Zeus Hikesios）神职相通。",
+      "verdict": "缓·先静后成",
+      "imagery_zh": "目下计策未稳，先遵神旨静坐怀望，日后必得顺遂",
+      "oracle_zh": "吾观汝目下此计尚未稳妥，且当暂缓等待；日后汝必能顺利成事、得偿所求；唯眼下须安然静坐，顺从诸神并心怀善望。",
+      "source_ref": "Kremna XXXI (IK 57, 5) / Heinevetter XXXI (O, T)"
+    },
+    "3-3-3-3-6": {
+      "index": 32,
+      "bones": [
+        3,
+        3,
+        3,
+        3,
+        6
+      ],
+      "sum": 18,
+      "prob_real": 0.0128,
+      "deity_grc": "Ἀγαθοῦ Χρόνου",
+      "deity_en": "Good Time",
+      "deity_zh": "良时之神",
+      "base_deity_slug": "",
+      "deity_note": "拟人化的吉善时间之神（Agathos Chronos，「良时」），有别于提坦神克洛诺斯（Kronos），司掌瓜熟蒂落的岁月时机。",
+      "verdict": "缓·神阻待时",
+      "imagery_zh": "灵神当前拦阻，莫如母犬急产盲崽，静谋终成美事",
+      "oracle_zh": "切莫急躁！灵神正加拦阻，且当耐心等候，免如母犬急产双目失明之幼崽；从容静心筹谋，可喜美事终将为汝成就。",
+      "source_ref": "Kremna XXXII (IK 57, 5) / Heinevetter XXXII (O, T；次句克雷姆纳碑作 κύων「母犬产盲崽」，Heinevetter 旧校作 λέων)"
+    },
+    "1-3-3-6-6": {
+      "index": 33,
+      "bones": [
+        1,
+        3,
+        3,
+        6,
+        6
+      ],
+      "sum": 19,
+      "prob_real": 0.0048,
+      "deity_grc": "Ἐλπίδος Ἀγαθῆς",
+      "deity_en": "Good Hope",
+      "deity_zh": "善望女神",
+      "base_deity_slug": "",
+      "deity_note": "拟人化的美好希望女神（Elpis Agathe），在帝国时期常与堤喀同祀，专司止息悲苦、化解猜疑。",
+      "verdict": "大吉·路通释疑",
+      "imagery_zh": "前途畅达安稳，灵神引路顿止沉痛、释尽猜疑",
+      "oracle_zh": "汝向吾所问诸事，前路尽皆畅通稳妥；切勿畏惧，灵神必于万事之中为汝引路，顷刻止息沉重悲苦，化解心头猜疑。",
+      "source_ref": "Kremna XXXIII (IK 57, 5) / Heinevetter XXXIII (O, T)"
+    },
+    "1-4-4-4-6": {
+      "index": 34,
+      "bones": [
+        1,
+        4,
+        4,
+        4,
+        6
+      ],
+      "sum": 19,
+      "prob_real": 0.0128,
+      "deity_grc": "Διὸς Κτησίου",
+      "deity_en": "Zeus Ktesios",
+      "deity_zh": "护财家产宙斯",
+      "base_deity_slug": "zeus",
+      "deity_note": "",
+      "verdict": "大吉·病愈讨债",
+      "imagery_zh": "放胆着手希望充盈，沉疴得救，旧债追回",
+      "oracle_zh": "尽管放胆着手！此道神谕充满善望：既昭示抱病之人必得救治痊愈；若为追讨欠债求卜，汝所索要之数亦必尽数收回。",
+      "source_ref": "Kremna XXXIV (IK 57, 5) / Heinevetter XXXIV (O, T)"
+    },
+    "3-4-4-4-4": {
+      "index": 35,
+      "bones": [
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "sum": 19,
+      "prob_real": 0.0512,
+      "deity_grc": "Ἑρμοῦ Κερδεμπόρου",
+      "deity_en": "Hermes Kerdemporos",
+      "deity_zh": "贸利商旅赫尔墨斯",
+      "base_deity_slug": "hermes",
+      "deity_note": "",
+      "verdict": "大吉·谋利顺成",
+      "imagery_zh": "商神赐良策于心，凡所求卜皆获利益而无灾咎",
+      "oracle_zh": "赫尔墨斯（一本作宙斯）将为增益福利赐良策于汝心，诸事皆成，凡汝所愿尽能命中；求卜所问一切必能得获，毫无灾咎。",
+      "source_ref": "Kremna XXXV (IK 57, 5) / Heinevetter XXXV (O, T；首句特尔梅索斯与奥尔梅利斯碑作赫尔墨斯赐谋，克雷姆纳碑异文作宙斯赐谋)"
+    },
+    "3-3-3-4-6": {
+      "index": 36,
+      "bones": [
+        3,
+        3,
+        3,
+        4,
+        6
+      ],
+      "sum": 19,
+      "prob_real": 0.0512,
+      "deity_grc": "Νείκης",
+      "deity_en": "Nike",
+      "deity_zh": "胜利女神倪刻",
+      "base_deity_slug": "nike",
+      "deity_note": "",
+      "verdict": "大吉·神助夺胜",
+      "imagery_zh": "异乡客获嘉美神言，神明相助凯旋摘果",
+      "oracle_zh": "异乡求问者，汝所得乃嘉美神谕，当善加思量；汝必办成心愿，神明将亲作外援，令汝取胜、收获果实，尽达一切目标。",
+      "source_ref": "Kremna XXXVI (IK 57, 5; Graf 2005) / Heinevetter XXXVI (O, T 存题头 Νείκης，正文由克雷姆纳碑补全)"
+    },
+    "4-4-4-4-4": {
+      "index": 37,
+      "bones": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "sum": 20,
+      "prob_real": 0.01024,
+      "deity_grc": "Μοιρῶν Ἀδυσωπήτων",
+      "deity_en": "The Inexorable Moirai",
+      "deity_zh": "不可求情之命运三女神",
+      "base_deity_slug": "moirai",
+      "deity_note": "",
+      "verdict": "大凶·日落夜临",
+      "imagery_zh": "白日已沉、毁灭暗夜当权，万象晦暗，罢手勿事买卖",
+      "oracle_zh": "太阳已经沉落，毁灭之暗夜当权掌令，四下尽归晦暗！速速罢手莫问所求之事，盖此时无论买进抑或售出皆无善果。",
+      "source_ref": "Kremna XXXVII (IK 57, 5; Graf 2005; Nollé 2007) / Heinevetter XXXVIII (T 题头作 Μοιρῶν，存异文残句)"
+    },
+    "1-3-4-6-6": {
+      "index": 38,
+      "bones": [
+        1,
+        3,
+        4,
+        6,
+        6
+      ],
+      "sum": 20,
+      "prob_real": 0.0096,
+      "deity_grc": "Σελήνης",
+      "deity_en": "Selene",
+      "deity_zh": "月神塞勒涅",
+      "base_deity_slug": "selene",
+      "deity_note": "",
+      "verdict": "中平·止谋护困",
+      "imagery_zh": "所谋不利当止，然困厄病者蒙神救护，虽惊无咎",
+      "oracle_zh": "此事于汝不利，切莫施行；然神明宣告必救护身陷病困苦厄之人，纵有一时惊惧，于汝亦终无灾祸。",
+      "source_ref": "Kremna XXXVIII (IK 57, 5; Graf 2005) / Heinevetter XXXIX (T；特尔梅索斯残碑同骨型题头异文作 Νεμέσεως)"
+    },
+    "3-3-4-4-6": {
+      "index": 39,
+      "bones": [
+        3,
+        3,
+        4,
+        4,
+        6
+      ],
+      "sum": 20,
+      "prob_real": 0.0768,
+      "deity_grc": "Διοσκόρων Κηδεμόνων",
+      "deity_en": "Guardian Dioskouroi",
+      "deity_zh": "护佑者双子神狄俄斯库里",
+      "base_deity_slug": "",
+      "deity_note": "斯巴达双子神卡斯托耳与波吕丢刻斯（Dioskouroi），行旅与海难救护神；特尔梅索斯平行碑异文作 Διὸς νεκρῶν κηδεμόνος（护亡者宙斯）。",
+      "verdict": "大凶·阴云覆顶",
+      "imagery_zh": "恶云笼罩万事困顿，心之所向难图寸功，慎防灾殃",
+      "oracle_zh": "凡汝心意驱遣欲图之事，眼下毫无可乘之机；忧患缠身，恶云正笼罩全局；此举命途乖蹇、诸事困顿，务必严加戒惧！",
+      "source_ref": "Kremna XXXIX (IK 57, 5; Graf 2005) / 异文对照 Heinevetter XL (T 特尔梅索斯碑作 Διὸς νεκρῶν κηδεμόνος，判词异作戒急获利、神解诸厄)"
+    },
+    "1-1-6-6-6": {
+      "index": 40,
+      "bones": [
+        1,
+        1,
+        6,
+        6,
+        6
+      ],
+      "sum": 20,
+      "prob_real": 0.0001,
+      "deity_grc": "Ἡφαίστου",
+      "deity_en": "Hephaestus",
+      "deity_zh": "赫菲斯托斯",
+      "base_deity_slug": "hephaestus",
+      "deity_note": "",
+      "verdict": "大凶·翻石遇蝎",
+      "imagery_zh": "切莫轻举妄动翻遍群石，恐石下惊出毒蝎",
+      "oracle_zh": "切莫愚鲁行事，莫作徒劳白工；休要翻动每一块石头，恐石下惊出毒蝎伤人！此事不祥、诸端困厄，务必慎之戒之。",
+      "source_ref": "Kremna XL (IK 57, 5; Graf 2005；化用古希腊谚语「每石之下皆伏毒蝎」；Heinevetter 拟排第 XXXVII 签旧缺，据克雷姆纳碑补全)"
+    },
+    "1-4-4-6-6": {
+      "index": 41,
+      "bones": [
+        1,
+        4,
+        4,
+        6,
+        6
+      ],
+      "sum": 21,
+      "prob_real": 0.0048,
+      "deity_grc": "Δήμητρος",
+      "deity_en": "Demeter",
+      "deity_zh": "德墨忒尔",
+      "base_deity_slug": "demeter",
+      "deity_note": "",
+      "verdict": "大吉·坦途勇进",
+      "imagery_zh": "前途安稳畅达，灵神引路无忧无惧，放胆前行",
+      "oracle_zh": "汝向吾所问诸事，前途尽皆畅达稳妥；切莫畏惧，灵神必于万事引路，吾未见汝有半分苦厄（异文作止息悲苦、释尽猜疑），尽管放胆前行。",
+      "source_ref": "Kremna XLI (IK 57, 5) / Heinevetter XLI (T；末句克雷姆纳碑作无苦勇行，特尔梅索斯碑同第33签套语)"
+    },
+    "3-4-4-4-6": {
+      "index": 42,
+      "bones": [
+        3,
+        4,
+        4,
+        4,
+        6
+      ],
+      "sum": 21,
+      "prob_real": 0.0512,
+      "deity_grc": "Ἡλίου Φωσφόρου",
+      "deity_en": "Helios Phosphoros",
+      "deity_zh": "持光太阳神赫利俄斯",
+      "base_deity_slug": "helios",
+      "deity_note": "",
+      "verdict": "大吉·寻得幽隐",
+      "imagery_zh": "万事俱备，幽隐失物终将寻获，迎来救赎吉日",
+      "oracle_zh": "凡汝所愿皆能办成，凡汝挂怀皆能寻得；异乡求问者，尽管鼓勇着手，万事俱已齐备；隐没难觅之物必将寻回，救护吉日照临诸事。",
+      "source_ref": "Kremna XLII (IK 57, 5) / Heinevetter XLII (T, Y)"
+    },
+    "3-3-3-6-6": {
+      "index": 43,
+      "bones": [
+        3,
+        3,
+        3,
+        6,
+        6
+      ],
+      "sum": 21,
+      "prob_real": 0.0064,
+      "deity_grc": "Τύχης ἐπ' ἄλλα προβιβαζούσης",
+      "deity_en": "Advancing Tyche",
+      "deity_zh": "引向佳境之堤喀",
+      "base_deity_slug": "tyche",
+      "deity_note": "",
+      "verdict": "大吉·速行病除",
+      "imagery_zh": "神谕催汝速进，脱离沉疴掌控全局，漂泊游子必归",
+      "oracle_zh": "所谋尽属佳事，此道神谕命汝速速推进；汝将摆脱沉重疾苦并掌控全局，神明亦宣告漂泊异乡之游子终必归来。",
+      "source_ref": "Kremna XLIII (IK 57, 5) / Heinevetter XLIII (T, E, Y；题头克雷姆纳碑作 Τύχης ἐπὶ καλὰ προβιβαζούσης)"
+    },
+    "1-3-6-6-6": {
+      "index": 44,
+      "bones": [
+        1,
+        3,
+        6,
+        6,
+        6
+      ],
+      "sum": 22,
+      "prob_real": 0.0008,
+      "deity_grc": "Μοιρῶν Ἐπιφανῶν",
+      "deity_en": "The Manifest Moirai",
+      "deity_zh": "显圣命运三女神",
+      "base_deity_slug": "moirai",
+      "deity_note": "",
+      "verdict": "大凶·莫探狼口",
+      "imagery_zh": "切莫伸手入饿狼之口，事涉诡诈难信，当罢行止买",
+      "oracle_zh": "切莫将手伸入恶狼口中，以免祸殃临头！汝所探问之事棘手难办且奸诈失信，当安然静守，罢却行旅与集市采买。",
+      "source_ref": "Kremna XLIV (IK 57, 5) / Heinevetter XLIV (T, E, A)"
+    },
+    "4-4-4-4-6": {
+      "index": 45,
+      "bones": [
+        4,
+        4,
+        4,
+        4,
+        6
+      ],
+      "sum": 22,
+      "prob_real": 0.0128,
+      "deity_grc": "Ποσειδῶνος",
+      "deity_en": "Poseidon",
+      "deity_zh": "波塞冬",
+      "base_deity_slug": "poseidon",
+      "deity_note": "",
+      "verdict": "大凶·海播水书",
+      "imagery_zh": "莫向大海撒种、莫在水面写字，凡躯强逼神明必受其害",
+      "oracle_zh": "切莫向大海撒播种子，亦莫在波涛上书写文字——二者皆属徒劳白工、无成之举；汝以区区凡人之躯，切勿强逼尚在阻拦之神明，否则必遭损害。",
+      "source_ref": "Kremna XLV (IK 57, 5) / Heinevetter XLV (T, E, A)"
+    },
+    "3-3-4-6-6": {
+      "index": 46,
+      "bones": [
+        3,
+        3,
+        4,
+        6,
+        6
+      ],
+      "sum": 22,
+      "prob_real": 0.0192,
+      "deity_grc": "Ἄρεως Θουρίου",
+      "deity_en": "Ares Thouros",
+      "deity_zh": "狂飙战神阿瑞斯",
+      "base_deity_slug": "ares",
+      "deity_note": "",
+      "verdict": "大凶·烈狮当道",
+      "imagery_zh": "赤焰巨狮盘踞前途，神谕示事不成，当静守避险",
+      "oracle_zh": "异乡人，切莫踏上汝欲行之路！吾明告于汝：一头赤焰狰狞之巨狮已闯入此途，可怖至极，务须严加提防；此卦主事不成，当在静默中留守等待。",
+      "source_ref": "Kremna XLVI (IK 57, 5) / Heinevetter XLVI (A, E, T)"
+    },
+    "1-4-6-6-6": {
+      "index": 47,
+      "bones": [
+        1,
+        4,
+        6,
+        6,
+        6
+      ],
+      "sum": 23,
+      "prob_real": 0.0008,
+      "deity_grc": "Ἀθηνᾶς",
+      "deity_en": "Athena",
+      "deity_zh": "雅典娜",
+      "base_deity_slug": "athena",
+      "deity_note": "",
+      "verdict": "大吉·解缚救疾",
+      "imagery_zh": "尊奉帕拉斯·雅典娜，心愿尽成，脱缧绁而起沉疴",
+      "oracle_zh": "当虔心尊奉帕拉斯·雅典娜，凡汝所欲求者皆必归汝，心中既定之谋亦将尽数成就；女神更将解脱羁绊锁链，救起抱病受苦之人。",
+      "source_ref": "Kremna XLVII (IK 57, 5) / Heinevetter XLVII (T, E, A)"
+    },
+    "3-4-4-6-6": {
+      "index": 48,
+      "bones": [
+        3,
+        4,
+        4,
+        6,
+        6
+      ],
+      "sum": 23,
+      "prob_real": 0.0192,
+      "deity_grc": "Εὐφροσύνης",
+      "deity_en": "Euphrosyne",
+      "deity_zh": "欢悦女神欧佛洛绪涅",
+      "base_deity_slug": "",
+      "deity_note": "美惠三女神（Charites）之一，亦为欢欣喜乐的拟人化神格（Euphrosyne），庇佑愉悦顺遂的往来与交易。",
+      "verdict": "大吉·欢欣凯归",
+      "imagery_zh": "随心速往必满载归家，诸事皆化欢欣，贸易无惧",
+      "oracle_zh": "但随心意所向速速启程，盖汝必将寻得所求、按心意办妥诸事并掌控一切而重返家门；前途万事皆满盈欢悦（异文作欢欣从事买卖），切勿心怀半分畏惧。",
+      "source_ref": "Kremna XLVIII (IK 57, 5) / Heinevetter XLVIII (T, E, A；末句克雷姆纳碑含欢欣买卖之辞)"
+    },
+    "3-3-6-6-6": {
+      "index": 49,
+      "bones": [
+        3,
+        3,
+        6,
+        6,
+        6
+      ],
+      "sum": 24,
+      "prob_real": 0.0016,
+      "deity_grc": "Ἀπόλλωνος Πυθίου",
+      "deity_en": "Pythian Apollo",
+      "deity_zh": "皮提亚阿波罗",
+      "base_deity_slug": "apollo",
+      "deity_note": "",
+      "verdict": "缓·遵谕少待",
+      "imagery_zh": "听从福玻斯神谕暂止勿动，审伺良机少待即成",
+      "oracle_zh": "暂留勿动，切莫行事，当顺服福玻斯之神谕！于岁月流转中善自伺察良机，目下唯须安静；只需稍加忍耐片刻，汝所挂怀诸事终将尽数竟功。",
+      "source_ref": "Kremna XLIX (IK 57, 5) / Heinevetter XLIX (T, E, A)"
+    },
+    "4-4-4-6-6": {
+      "index": 50,
+      "bones": [
+        4,
+        4,
+        4,
+        6,
+        6
+      ],
+      "sum": 24,
+      "prob_real": 0.0064,
+      "deity_grc": "Κρόνου Τεκνοφάγου",
+      "deity_en": "Kronos Teknophagos",
+      "deity_zh": "吞子者克洛诺斯",
+      "base_deity_slug": "cronos",
+      "deity_note": "",
+      "verdict": "大凶·闭户防煞",
+      "imagery_zh": "稳坐家宅切莫远出，恐致命凶兽与复仇恶灵逼近",
+      "oracle_zh": "稳守汝自家宅切莫妄动，休往别处出行，以免致命凶兽与复仇恶灵自近处扑临汝身；盖吾观此举既无安全，亦不可靠。",
+      "source_ref": "Kremna L (IK 57, 5) / Heinevetter L (T, E, A)"
+    },
+    "3-4-6-6-6": {
+      "index": 51,
+      "bones": [
+        3,
+        4,
+        6,
+        6,
+        6
+      ],
+      "sum": 25,
+      "prob_real": 0.0032,
+      "deity_grc": "Μηνὸς Φωσφόρου",
+      "deity_en": "Men Phosphoros",
+      "deity_zh": "持炬月神门",
+      "base_deity_slug": "",
+      "deity_note": "安纳托利亚（弗里吉亚—皮西迪亚）本土至高月神门（Mēn），肩负新月、手持火炬（Phosphoros），司掌时运、誓约与词讼裁断。",
+      "verdict": "大吉·乘时利讼",
+      "imagery_zh": "良机在握辛劳有果，登程兴业与争讼抗辩皆吉",
+      "oracle_zh": "放胆勿惧！良机已在汝手，凡所意欲皆能办成，启程登途亦必顺遂；辛勤劳作自有硕果，无论着手兴业抑或赴赛、涉讼听审，尽皆大吉。",
+      "source_ref": "Kremna LI (IK 57, 5) / Heinevetter LI (T, E, A)"
+    },
+    "1-6-6-6-6": {
+      "index": 52,
+      "bones": [
+        1,
+        6,
+        6,
+        6,
+        6
+      ],
+      "sum": 25,
+      "prob_real": 0.00005,
+      "deity_grc": "Μητρὸς Θεῶν",
+      "deity_en": "Mother of the Gods",
+      "deity_zh": "众神之母库柏勒",
+      "base_deity_slug": "",
+      "deity_note": "安纳托利亚大地与山野最高女神「众神之母」（Meter Theon / Cybele，希腊传统常与瑞亚 Rhea 相融），驾驭群狮猛兽。",
+      "verdict": "大吉·狮狼制物",
+      "imagery_zh": "如群狼制羔羊、猛狮伏曲角耕牛，借宙斯之赫尔墨斯尽掌全局",
+      "oracle_zh": "恰如群狼制住羔羊、威猛雄狮降伏曲角耕牛，汝亦将如是尽数掌控万事；凭宙斯之子赫尔墨斯相助，凡汝所问一切皆归汝手。",
+      "source_ref": "Kremna LII (IK 57, 5) / Heinevetter LII (T, E, A)"
+    },
+    "4-4-6-6-6": {
+      "index": 53,
+      "bones": [
+        4,
+        4,
+        6,
+        6,
+        6
+      ],
+      "sum": 26,
+      "prob_real": 0.0016,
+      "deity_grc": "Διὸς Καταχθονίου",
+      "deity_en": "Zeus Katachthonios",
+      "deity_zh": "冥府宙斯",
+      "base_deity_slug": "zeus",
+      "deity_note": "宙斯统摄地下幽冥权柄的威严神格（古希腊传统中亦用指冥王哈迪斯 Hades）。",
+      "verdict": "凶·路塞损财",
+      "imagery_zh": "重重阻碍前路难通，无论买进售出皆有亏损",
+      "oracle_zh": "此事窒碍重重，切莫急进，当暂缓等待；前路苦楚棘手、难以企及；此时买进必陷艰难，售出亦将招致亏损。",
+      "source_ref": "Kremna LIII (IK 57, 5) / Heinevetter LIII (T, E)"
+    },
+    "3-6-6-6-6": {
+      "index": 54,
+      "bones": [
+        3,
+        6,
+        6,
+        6,
+        6
+      ],
+      "sum": 27,
+      "prob_real": 0.0002,
+      "deity_grc": "Ἀφροδίτης Οὐρανίας",
+      "deity_en": "Aphrodite Ourania",
+      "deity_zh": "天界阿芙洛狄忒",
+      "base_deity_slug": "aphrodite",
+      "deity_note": "",
+      "verdict": "大吉·天女解忧",
+      "imagery_zh": "苍穹之女、众爱欲女王赐吉谕，开坦途而脱病痛心忧",
+      "oracle_zh": "苍穹之女阿芙洛狄忒、统御众厄洛斯的尊贵女王，将赐下上吉神谕并授汝坦途，令汝脱离疾疫与伤心刺骨之忧思。",
+      "source_ref": "Kremna LIV (IK 57, 5) / Heinevetter LIV (T, E)"
+    },
+    "4-6-6-6-6": {
+      "index": 55,
+      "bones": [
+        4,
+        6,
+        6,
+        6,
+        6
+      ],
+      "sum": 28,
+      "prob_real": 0.0002,
+      "deity_grc": "Βλάβης",
+      "deity_en": "Blabe (Harm)",
+      "deity_zh": "灾损神布拉柏",
+      "base_deity_slug": "",
+      "deity_note": "拟人化的灾损与祸害之灵（Blabe），专在神谕中警示鲁莽躁进必招致实质损失。",
+      "verdict": "凶·急进招损",
+      "imagery_zh": "事不可成何苦徒劳，急进必生祸损，忌登程与采买",
+      "oracle_zh": "此事断不可成，何苦徒劳奔忙？且当停步等待，免因急躁冒进而由此招致灾损；盖目下无论启程赶路抑或入市采买，皆非良策。",
+      "source_ref": "Kremna LV (IK 57, 5) / Heinevetter LV (T, E, Y, K, O)"
+    },
+    "6-6-6-6-6": {
+      "index": 56,
+      "bones": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "sum": 30,
+      "prob_real": 0.00001,
+      "deity_grc": "Ἑρμοῦ Τετραγώνου",
+      "deity_en": "Hermes Tetragonos",
+      "deity_zh": "方柱赫尔墨斯",
+      "base_deity_slug": "hermes",
+      "deity_note": "「四方石柱之赫尔墨斯」（Hermes Tetragonos），即古希腊十字路口与市集所立四棱方柱神像（Herma），亦呼应四棱神谕石柱本身。",
+      "verdict": "止·留守胜行",
+      "imagery_zh": "方柱赫尔墨斯命汝驻足勿往，前有敌意忧患，静守方得解厄",
+      "oracle_zh": "切莫前往汝欲去之处，驻足留守于汝更为有利！吾见前途有敌意与可耻忧患横亘；且当安然静候、罢却行旅与采买（克雷姆纳碑末句作：静候之后，神明自将解除汝之恐惧并救拔受苦之人）。",
+      "source_ref": "Kremna LVI (IK 57, 5; Graf 2005) / Heinevetter LVI (T, E, K, Y, O；首句诸碑全同，末句特尔梅索斯与阿纳布拉碑作罢行止买，克雷姆纳碑作静待后神解惊惧并救苦者)"
+    }
+  }
+}

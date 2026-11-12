@@ -1,0 +1,2 @@
+# Preserve the released payload bytes, including the card-content manifest.
+* -text
